@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fcamgz
 - 👀 I’m interested in devops and fullstack development
-- 🌱 I’m currently learning kubernetes, openshift, and aws
+- 🌱 I’m currently learning kubernetes, and cloud technologies
 
 <!---
 fcamgz/fcamgz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
