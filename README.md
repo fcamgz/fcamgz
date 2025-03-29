@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fcamgz
-- 👀 I’m interested in devops and fullstack development
-- 🌱 I’m currently learning kubernetes, and cloud technologies
+- AWS Cloud Solutions Architect
+- Certified Backstage Associate
 - Youtube channel to see the showcase of my projects: https://www.youtube.com/@fatihcamgozdev
 
 <!---
